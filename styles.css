@@ -51,4 +51,5 @@ Give the div a "btn-wrapper" class.
 .main{
     background: url("img.png") no-repeat;
       background-position:center;
+    height: 429px;
 }
