@@ -48,3 +48,6 @@ Give the div a "btn-wrapper" class.
     border-radius: 4px;
     font-size: 14px;
 }
+.main{
+    background: url("img.png") no-repeat;
+}
